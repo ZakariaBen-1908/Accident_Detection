@@ -39,14 +39,12 @@ Ensure you have access to a Gmail account. If you have 2FA enabled, use an App P
 🚀 How to Use
 
 1. main.py — Run with Real-Time Detection Only
-2. 
-python main.py
+2. python main.py
 
 Displays video with bounding boxes and accident alerts.
 
 3. email_alert.py — Run with Email Notification
-4. 
-Update the following fields in email_alert.py:
+4. Update the following fields in email_alert.py:
 
 sender_email = "your_gmail@gmail.com"
 
