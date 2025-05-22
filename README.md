@@ -36,12 +36,12 @@ pip install secure-smtplib
 
 Ensure you have access to a Gmail account. If you have 2FA enabled, use an App Password.
 
-🚀 How to Use
+## 🚀 How to Use
 
 1. main.py — Run with Real-Time Detection Only
 2. python main.py
 
-Displays video with bounding boxes and accident alerts.
+### Displays video with bounding boxes and accident alerts.
 
 3. email_alert.py — Run with Email Notification
 4. Update the following fields in email_alert.py:
@@ -52,13 +52,13 @@ receiver_email = "target_email@gmail.com"
 
 password = "your_app_password"
 
-Then run:
+### Then run:
 
 python email_alert.py
 
 Alerts with visual boxes and sends email with a screenshot when an accident is detected.
 
-🧪 Demo Video (Optional)
+## 🧪 Demo Video (Optional)
 
 If you want to provide a demo, include a link to a hosted video demonstrating the system in action.
 
@@ -66,7 +66,7 @@ The detection class in coco1.txt should include a line with "Accident Detection 
 
 You can stop the program anytime by pressing q.
 
-📬 Future Improvements
+## 📬 Future Improvements
 
 Integrate GPS module for location tracking.
 
@@ -76,8 +76,8 @@ Expand dataset for better accuracy.
 
 Add cloud logging of events.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Zakaria BENCHEIKH
+### Zakaria BENCHEIKH
 
 Feel free to connect or contribute!
