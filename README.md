@@ -1,5 +1,5 @@
 # Accident_Detection
-# RoadGuard: Real-Time Accident and Speed Detection System
+# RoadGuard: Real-Time Accident System
 
 RoadGuard is an intelligent real-time surveillance system that uses computer vision and deep learning to detect vehicle accidents in video footage. It can display real-time alerts and send email notifications with image evidence of detected accidents.
 
